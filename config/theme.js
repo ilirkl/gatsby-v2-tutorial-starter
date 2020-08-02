@@ -72,9 +72,9 @@ export const theme = {
     heading: `Candal, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'`,
   },
   layout: {
-    article: '46rem',
-    base: '70rem',
-    big: '83.33333rem',
+    article: '26rem',
+    base: '30rem',
+    big: '43.33333rem',
   },
   borderRadius: {
     default: '0.4rem',
